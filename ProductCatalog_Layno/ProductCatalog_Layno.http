@@ -1,0 +1,6 @@
+@ProductCatalog_Layno_HostAddress = http://localhost:5124
+
+GET {{ProductCatalog_Layno_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
